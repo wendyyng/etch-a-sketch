@@ -14,8 +14,8 @@ function createSquares (size){
   grid-template-rows: repeat(${size}, 0fr);
   }
   .square {
-  width: ${(960/size)-(2)}px;
-  height: ${(960/size)-(2)}px;
+  width: ${(480/size)-(2)}px;
+  height: ${(480/size)-(2)}px;
   }`
   document.head.appendChild(squareStyle);
   squareTransition();

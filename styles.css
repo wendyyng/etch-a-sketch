@@ -3,14 +3,14 @@
 }
 
 body {
-    background-color: #FAF0E6;
+    background-color: #d6d4e0;
     text-align: center;
   }
   
 h1 {
    font-size: 70px;
-   margin-bottom: 50px;
-   margin-top: 74px;
+   margin-bottom: 25px;
+   margin-top: 25px;
   }
   
   .container {
@@ -19,7 +19,7 @@ h1 {
   }
   
   .square.transitioned {
-    background-color: #2F4F4F;
+    background-color: #622569;
   }
   
   .square {
@@ -36,19 +36,19 @@ h1 {
   .control > button {
     margin: 24px;
     padding: 10px;
-    width: 120px;
-    font-size: 30px;
+    width: 80px;
+    font-size: 20px;
     border-radius: 15px;
-    background-color: #ADD8E6;
+    background-color: #5b9aa0;
     box-shadow: 5px 10px #888888;
   }
   
   button:hover {
-    background-color: #CD5C5C;
+    background-color: #b8a9c9;
   }
   
   footer {
-    margin-top: 50px;
-    margin-bottom: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     font-size: 30px;
   }
