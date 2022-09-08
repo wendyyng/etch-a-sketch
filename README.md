@@ -1,5 +1,5 @@
 # Etch-A-Sketch
-The Etch-A-Sketch project for the Odin Project simple html, css and JavaScript. <br />
+The Etch-A-Sketch project developed using html, css and JavaScript. <br />
 Live Preview Link: https://wendyyng.github.io/etch-a-sketch/
 
 ## Screenshot: 
