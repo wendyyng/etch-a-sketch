@@ -1,5 +1,5 @@
 # Etch-A-Sketch
-The Etch-A-Sketch project developed using html, css and JavaScript. <br />
+An Etch-A-Sketch drawing game with gradient background animation developed using html, css and JavaScript. <br />
 Live Link: https://wendyyng.github.io/etch-a-sketch/
 
 ## Screenshot: 
